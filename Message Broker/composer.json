@@ -1,0 +1,7 @@
+{
+    "name": "asus/tes",
+    "description": "tes message broker",
+    "require": {
+        "php-amqplib/php-amqplib": "^2.8"
+    }
+}
